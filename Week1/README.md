@@ -8,8 +8,12 @@ Add your answers into this template, answer every question from the instruction 
 
 ### Task 1.1
 
+### Task 1.x
+
 ## Task 2
 
 ### Task 2.1
+
+### Task 2.x
 
 ## Task x
