@@ -31,6 +31,8 @@ Check [cheat sheet](https://github.github.com/training-kit/downloads/github-git-
 
 If you have barely edited Markdown files, [Visual Studio Code](https://code.visualstudio.com/) is a good free software for editing and showing live preview of it. It works on Windows, Linux and Mac. It is also installed on to the virtual machine (VSCodium version, without trackers). 
 
+You can look for short guide of Markdown syntax available in [here.](https://guides.github.com/features/mastering-markdown/)
+
 ## When to proceed?
 
 There is a deadline for each weekly exercise.
