@@ -18,7 +18,7 @@ You will update and add all of your work on from the exercises into this reposit
 
 There is corresponding folder for each exercise in this repository.
 
-There is template for text (README.md) in each template folder. You can fill it as you like, but include at least task numbers, including subnumbers, answering what is required on corresponding task.
+There is template for text (README.md) in each template folder. You can fill it as you like, but include at least task numbers and possible subnumbers, answering what is required on corresponding task.
 
 You can create folder named *src* for possible source code in each folder.
 
@@ -29,7 +29,7 @@ It is recommended to do as described above, but it is not required (= you can ad
 
 Check [cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) if you need a refresher on how to use Git. 
 
-If you have barely edited Markdown files, [Visual Studio Code](https://code.visualstudio.com/) is a good free software for editing and showing live preview of it. It works on Windows, Linux and Mac. It is also installed on to the virtual machine (VSCodium version, without trackers). 
+If you have barely edited Markdown files, [Visual Studio Code](https://code.visualstudio.com/) is a good free software for editing and showing live preview of it. It works on Windows, Linux and Mac. It is also installed on to the virtual machine (VSCodium version, without trackers).
 
 You can look for short guide of Markdown syntax available in [here.](https://guides.github.com/features/mastering-markdown/)
 
