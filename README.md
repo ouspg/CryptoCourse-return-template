@@ -7,7 +7,7 @@
 
 ## What is this repository for?
 
-This repository is meant for returning all of the weekly exercises during the course.
+This repository is meant for returning all of the weekly exercises during the course. This repository should be private and is invisible for others, with exception of course organizers.
 
 The actual instructions for exercises are [here.](https://github.com/ouspg/CryptoCourse)
 
