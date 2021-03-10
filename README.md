@@ -18,7 +18,7 @@ You will update and add all of your work on from the exercises into this reposit
 
 There is corresponding folder for each exercise in this repository.
 
-There is template for text (README.md) in each template folder. You can fill it as you like, but include at least task numbers, including subnumbers, including what is required on corresponding task.
+There is template for text (README.md) in each template folder. You can fill it as you like, but include at least task numbers, including subnumbers, answering what is required on corresponding task.
 
 You can create folder named *src* for possible source code in each folder.
 
