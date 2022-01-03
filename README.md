@@ -1,4 +1,4 @@
-# Your place for returning weekly exercises on course 521149S Cryptographic systems and their weaknesses 
+# Your place for returning weekly exercises on course 521254S Cryptographic systems and their weaknesses 
 
 **Student name:** 
 
@@ -29,7 +29,7 @@ It is recommended to do as described above, but it is not required (= you can ad
 
 Check [cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) if you need a refresher on how to use Git. 
 
-If you have barely edited Markdown files, [Visual Studio Code](https://code.visualstudio.com/) is a good free software for editing and showing live preview of it. It works on Windows, Linux and Mac. It is also installed on to the virtual machine (VSCodium version, without trackers).
+If you have barely edited Markdown files, [Visual Studio Code](https://code.visualstudio.com/) is a good free software for editing and showing live preview of it. It works on Windows, Linux and Mac. It is also installed on to the virtual machine (VSCodium version, without propertiary bits).
 
 You can look for short guide of Markdown syntax available in [here.](https://guides.github.com/features/mastering-markdown/)
 
@@ -41,7 +41,7 @@ When you have done the exercises of corresponding week, you have to return link 
 
 Note: You can return link beforehand and edit corresponding exercise still here, as long as it has been done before deadline.
 
-In practice, if you have done all of the nine (9) exercises, you return this same link nine (9) times for different return boxes.
+In practice, if you have done all of the eight (8) exercises, you return this same link eight (8) times for different return boxes.
 
 This is because:
 
