@@ -1,4 +1,4 @@
-# Your place for returning weekly exercises on course 521254S Cryptographic systems and their weaknesses 
+# Your place for returning weekly exercises on the course IC00AK18 Cryptographic systems and their weaknesses 
 
 **Student name:** 
 
